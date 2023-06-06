@@ -1,6 +1,6 @@
 # Hello there 🤓, my name is Anton Manolov.
  
-I started coding almost as a joke, but that changed very quickly. From simple interest, Python turned into an informational abyss that still attracts me irresistibly to this day.
+I started coding almost as a joke, but that changed very quickly. From simple interest, Python turned into an informational abyss that still attracts me irresistibly, to this very day.
 Before Python. After several failed attempts to like JavaScript, and  a lot of research, I became interested in Python. I watched online videos for a few months until I took the plunge and signed up for SoftUni programming basics. It was splendid! I 🖤ed Python!
 
 Long story short - I got all in with the web development path. With each subsequent course, over the almost two years, I realized how much more there was to learn. 😃 But the flame of knowledge burned brighter and brighter. ❤️‍🔥
