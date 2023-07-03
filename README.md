@@ -13,6 +13,6 @@ I am very hopeful and looking forward to work on real projects and keep going up
 
 
 
-- 🔭 I’m currently working on The Odin Project, my blog project, and sharpening my codding skills += adding more programming tools in my arsenal.
+- 🔭 I’m currently working on The Odin Project, my blog project, portfolio site, and sharpening my codding skills += adding more programming tools in my arsenal.
 
 - 🌱 Learning and exercising algorithms. It has been very hard to get a grasp on, but I am getting better!
