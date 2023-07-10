@@ -4,11 +4,11 @@
 
 I started coding almost as a joke, but that changed very quickly. From simple interest, Python turned into an informational abyss that still attracts me irresistibly, to this very day.
 
-After several failed attempts to like JavaScript, and  a lot of research, I became interested in Python. I watched online videos for a few months until I took the plunge and signed up for SoftUni programming basics. It was splendid! I loved Python!
+After several failed attempts at different languages for month or two, and  a lot of research, I became interested in Python. I watched online videos for a few months until I took the plunge and signed up for SoftUni programming basics. It was splendid! I loved Python!
 
-Long story short - I got all in with the web development path. With each subsequent course, over almost two years, I realized how much more there was to learn. 😃 But the flame of knowledge burned brighter and brighter. ❤️‍🔥
+Long story short - I got all in with the web development path. With each subsequent course, over almost two years, I realized how much more there was to learn. 😃 But the flame of knowledge burned brighter and brighter. I became interested in more languages and front-end in particular❤️‍🔥
 
-So we're at this point where I start looking for a real job where I can show what I've learned so far and just start building on this wonderful knowledge I got from SoftUni, and all other sources. 
+So we're at this point where I start looking for a real job, while polishing my skill. I am keen to show what I've learned so far and just start building on this wonderful knowledge I got from SoftUni, and all other sources. 
 I am very hopeful and looking forward to work on real projects and keep going up - to the sky. 🦸‍♂️
 
 
