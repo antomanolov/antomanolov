@@ -1,4 +1,4 @@
-# Hello there 🤓, my name is Anton Manolov.
+# Hello there 🤓, my name is Anton Manolov
 
  
 
